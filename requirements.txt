@@ -1,0 +1,5 @@
+opencv-python>=4.8.0
+numpy>=1.24.0
+tensorflow>=2.14.0
+# 如果只需要 TensorFlow Lite，可以注释掉上面的 tensorflow 行，使用下面这行：
+# tflite-runtime>=2.5.0 
